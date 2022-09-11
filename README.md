@@ -10,7 +10,7 @@ index = 0
 while(current_size <= size) do
     if (current_size <= max_size)
     if (current_size > max_size
-    index = index+1) 
+    index = current_index+1) 
     print [current_size]
 
 
